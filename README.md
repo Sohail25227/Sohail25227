@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sohail Ahmad
-- 👀 I’m interested in front end development
+- 👀 I am 4th year undergraduate - BTech focused in electrical engineering from Delhi Technological University (Formerly DCE). Experienced Mentor with a demonstrated history of working in the non-profit organization management industry. Skilled in C, C++, Data Structure and Algorithms,SQL OS DBMS HTML CSS JS having basic knowledge of react node js express.
 - 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Certified Microsoft Azure Fundamentals(AZ-900).
 - 📫 How to reach me mail @ ahmad.sohail252002@gmail.com
 
 <!---

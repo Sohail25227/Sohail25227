@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ Certified Microsoft Azure Fundamentals(AZ-900).
 - 📫 How to reach me mail @ ahmad.sohail252002@gmail.com
+- 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,dsa,os,oop)](https://skillicons.dev)
 
 <!---

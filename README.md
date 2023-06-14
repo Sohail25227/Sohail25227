@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ Certified Microsoft Azure Fundamentals(AZ-900).
 - 📫 How to reach me mail @ ahmad.sohail252002@gmail.com
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,dsa,os,oop)](https://skillicons.dev)
 
 <!---
 Sohail25227/Sohail25227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

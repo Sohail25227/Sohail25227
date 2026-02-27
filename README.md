@@ -8,7 +8,7 @@ I hold a BTech Degree from Delhi Technological University (DTU) and am Microsoft
 
 - 📫 How to reach me @ ahmad.sohail252002@gmail.com
 - 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,ai,openshift,spring,html,css,js,nodejs,express,react,bitbucket,kafka,SpringBoot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,ai,openshift,spring,html,css,js,nodejs,express,react,bitbucket,kafka,SpringBoot)](https://skillicons.dev)
 
 <!---
 Sohail25227/Sohail25227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

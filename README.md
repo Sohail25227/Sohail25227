@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Sohail Ahmad
-- 👀 I am 4th year undergraduate - BTech focused in electrical engineering from Delhi Technological University (Formerly DCE). Experienced Mentor with a demonstrated history of working in the non-profit organization management industry. Skilled in C, C++, Data Structure and Algorithms,SQL OS DBMS HTML CSS JS having basic knowledge of react node js express.
-- 🌱 I’m currently learning data structures and algorithms
-- 💞️ Certified Microsoft Azure Fundamentals(AZ-900).
+- 👀 I’m a Software Developer at Amdocs with 2+ years of experience building high-performance backend systems in Java, Spring Boot, Kafka, C++, and SQL. My work spans API development, ,java utility development,data processing pipelines, and telecom domain solutions, delivering 50+ user stories and resolving complex QAT issues that improved system stability and performance.
+I hold a BTech Degree from Delhi Technological University (DTU) and am Microsoft Azure Fundamentals (AZ-900) certified. Alongside my professional role, I’ve mentored students in Data Structures & Algorithms, coordinated events at IEEE DTU, and collaborated with external partners to drive impactful initiatives.
+
+- 🌱 Core Skills: C++, Java, Spring Boot, Kafka, SQL, DSA, Multithreading, Networking Protocols, API Development, Elasticsearch, Agile Development.
+
+- 💞️ Passionate about scalable systems, performance optimization, and networking software, I’m driven to create robust solutions that solve real-world problems. Outside of work, you’ll find me on the cricket field or exploring new music playlists.
+
 - 📫 How to reach me @ ahmad.sohail252002@gmail.com
 - 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,dsa,os,oop,sql)](https://skillicons.dev)
